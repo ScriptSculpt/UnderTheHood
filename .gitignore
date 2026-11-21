@@ -24,6 +24,8 @@ lerna-debug.log*
 .env.*
 !.env.example
 *.local
+.idea/
+test/
 
 # TypeScript
 *.tsbuildinfo
